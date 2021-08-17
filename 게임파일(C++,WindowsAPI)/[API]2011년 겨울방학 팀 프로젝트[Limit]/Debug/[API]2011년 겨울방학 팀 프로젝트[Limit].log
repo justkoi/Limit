@@ -1,0 +1,55 @@
+﻿  cArcher.cpp
+  cArrow.cpp
+D:\이전노트북자료\노연자료(게임고)\백노연\ETC\[API]2011년 겨울방학 팀 프로젝트[Limit]\fmodSound.h(5,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'fmod.hpp': No such file or directory
+  cCavalry.cpp
+D:\이전노트북자료\노연자료(게임고)\백노연\ETC\[API]2011년 겨울방학 팀 프로젝트[Limit]\fmodSound.h(5,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'fmod.hpp': No such file or directory
+  cGame.cpp
+D:\이전노트북자료\노연자료(게임고)\백노연\ETC\[API]2011년 겨울방학 팀 프로젝트[Limit]\fmodSound.h(5,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'fmod.hpp': No such file or directory
+D:\이전노트북자료\노연자료(게임고)\백노연\ETC\[API]2011년 겨울방학 팀 프로젝트[Limit]\cGdiGraphics.h(222,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 'strcpy' 선언을 참조하십시오.
+  cInfantry.cpp
+D:\이전노트북자료\노연자료(게임고)\백노연\ETC\[API]2011년 겨울방학 팀 프로젝트[Limit]\fmodSound.h(5,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'fmod.hpp': No such file or directory
+  cLevelMenu.cpp
+D:\이전노트북자료\노연자료(게임고)\백노연\ETC\[API]2011년 겨울방학 팀 프로젝트[Limit]\fmodSound.h(5,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'fmod.hpp': No such file or directory
+D:\이전노트북자료\노연자료(게임고)\백노연\ETC\[API]2011년 겨울방학 팀 프로젝트[Limit]\cGdiGraphics.h(222,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 'strcpy' 선언을 참조하십시오.
+  cLimitMenu.cpp
+D:\이전노트북자료\노연자료(게임고)\백노연\ETC\[API]2011년 겨울방학 팀 프로젝트[Limit]\fmodSound.h(5,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'fmod.hpp': No such file or directory
+D:\이전노트북자료\노연자료(게임고)\백노연\ETC\[API]2011년 겨울방학 팀 프로젝트[Limit]\cGdiGraphics.h(222,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 'strcpy' 선언을 참조하십시오.
+  cLogo.cpp
+D:\이전노트북자료\노연자료(게임고)\백노연\ETC\[API]2011년 겨울방학 팀 프로젝트[Limit]\fmodSound.h(5,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'fmod.hpp': No such file or directory
+D:\이전노트북자료\노연자료(게임고)\백노연\ETC\[API]2011년 겨울방학 팀 프로젝트[Limit]\cGdiGraphics.h(222,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 'strcpy' 선언을 참조하십시오.
+  cMenu.cpp
+D:\이전노트북자료\노연자료(게임고)\백노연\ETC\[API]2011년 겨울방학 팀 프로젝트[Limit]\fmodSound.h(5,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'fmod.hpp': No such file or directory
+D:\이전노트북자료\노연자료(게임고)\백노연\ETC\[API]2011년 겨울방학 팀 프로젝트[Limit]\cGdiGraphics.h(222,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 'strcpy' 선언을 참조하십시오.
+  cPriest.cpp
+D:\이전노트북자료\노연자료(게임고)\백노연\ETC\[API]2011년 겨울방학 팀 프로젝트[Limit]\fmodSound.h(5,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'fmod.hpp': No such file or directory
+  cSpearman.cpp
+D:\이전노트북자료\노연자료(게임고)\백노연\ETC\[API]2011년 겨울방학 팀 프로젝트[Limit]\fmodSound.h(5,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'fmod.hpp': No such file or directory
+  cSpell.cpp
+D:\이전노트북자료\노연자료(게임고)\백노연\ETC\[API]2011년 겨울방학 팀 프로젝트[Limit]\fmodSound.h(5,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'fmod.hpp': No such file or directory
+  cStageMenu.cpp
+D:\이전노트북자료\노연자료(게임고)\백노연\ETC\[API]2011년 겨울방학 팀 프로젝트[Limit]\fmodSound.h(5,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'fmod.hpp': No such file or directory
+D:\이전노트북자료\노연자료(게임고)\백노연\ETC\[API]2011년 겨울방학 팀 프로젝트[Limit]\cGdiGraphics.h(222,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 'strcpy' 선언을 참조하십시오.
+  cStateManager.cpp
+D:\이전노트북자료\노연자료(게임고)\백노연\ETC\[API]2011년 겨울방학 팀 프로젝트[Limit]\fmodSound.h(5,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'fmod.hpp': No such file or directory
+D:\이전노트북자료\노연자료(게임고)\백노연\ETC\[API]2011년 겨울방학 팀 프로젝트[Limit]\cGdiGraphics.h(222,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 'strcpy' 선언을 참조하십시오.
+  cUnit.cpp
+D:\이전노트북자료\노연자료(게임고)\백노연\ETC\[API]2011년 겨울방학 팀 프로젝트[Limit]\fmodSound.h(5,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'fmod.hpp': No such file or directory
+  frame.cpp
+  main.cpp
+D:\이전노트북자료\노연자료(게임고)\백노연\ETC\[API]2011년 겨울방학 팀 프로젝트[Limit]\fmodSound.h(5,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'fmod.hpp': No such file or directory
+D:\이전노트북자료\노연자료(게임고)\백노연\ETC\[API]2011년 겨울방학 팀 프로젝트[Limit]\cGdiGraphics.h(222,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 'strcpy' 선언을 참조하십시오.
+  scene.cpp
+  sceneManager.cpp
+D:\이전노트북자료\노연자료(게임고)\백노연\ETC\[API]2011년 겨울방학 팀 프로젝트[Limit]\fmodSound.h(5,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'fmod.hpp': No such file or directory
+D:\이전노트북자료\노연자료(게임고)\백노연\ETC\[API]2011년 겨울방학 팀 프로젝트[Limit]\cGdiGraphics.h(222,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 'strcpy' 선언을 참조하십시오.
+  코드를 생성하고 있습니다...
+D:\이전노트북자료\노연자료(게임고)\백노연\ETC\[API]2011년 겨울방학 팀 프로젝트[Limit]\fmodSound.h(5,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'fmod.hpp': No such file or directory

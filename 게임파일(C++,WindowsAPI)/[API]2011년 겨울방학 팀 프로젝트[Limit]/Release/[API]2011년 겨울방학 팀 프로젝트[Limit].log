@@ -1,0 +1,124 @@
+﻿빌드 시작: 2012-02-20 오전 11:20:52
+     1>2 노드의 "C:\Users\백노연\Desktop\Black\정리2\No\[API]2011년 겨울방학 팀 프로젝트[Limit]\[API]2011년 겨울방학 팀 프로젝트[Limit].vcxproj" 프로젝트(build 대상)입니다.
+     1>InitializeBuildStatus:
+         "Release\[API]2011년 겨울방학 팀 프로젝트[Limit].unsuccessfulbuild"에 연결(touching)하고 있습니다.
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt cArcher.cpp cArrow.cpp cCavalry.cpp cButton.cpp cGame.cpp cInfantry.cpp cLevelMenu.cpp cLimitMenu.cpp cLogo.cpp cMenu.cpp cPriest.cpp cSpearman.cpp cSpell.cpp cStageMenu.cpp cStateManager.cpp cUnit.cpp main.cpp sceneManager.cpp
+         cArcher.cpp
+     1>c:\users\백노연\desktop\black\정리2\no\[api]2011년 겨울방학 팀 프로젝트[limit]\fmodSound.h(5): fatal error C1083: 포함 파일을 열 수 없습니다. 'fmod.hpp': No such file or directory
+         cArrow.cpp
+     1>c:\users\백노연\desktop\black\정리2\no\[api]2011년 겨울방학 팀 프로젝트[limit]\fmodSound.h(5): fatal error C1083: 포함 파일을 열 수 없습니다. 'fmod.hpp': No such file or directory
+         cCavalry.cpp
+     1>c:\users\백노연\desktop\black\정리2\no\[api]2011년 겨울방학 팀 프로젝트[limit]\fmodSound.h(5): fatal error C1083: 포함 파일을 열 수 없습니다. 'fmod.hpp': No such file or directory
+         cButton.cpp
+     1>c:\users\백노연\desktop\black\정리2\no\[api]2011년 겨울방학 팀 프로젝트[limit]\cGdiGraphics.h(187): error C2664: 'TextOutW' : 매개 변수 4을(를) 'char *'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+                 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+     1>c:\users\백노연\desktop\black\정리2\no\[api]2011년 겨울방학 팀 프로젝트[limit]\cGdiGraphics.h(222): error C2664: 'strcpy' : 매개 변수 1을(를) 'WCHAR [32]'에서 'char *'(으)로 변환할 수 없습니다.
+                 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+     1>c:\users\백노연\desktop\black\정리2\no\[api]2011년 겨울방학 팀 프로젝트[limit]\cGdiImage.h(52): error C2664: 'LoadImageW' : 매개 변수 2을(를) 'const char *'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+                 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+     1>cButton.cpp(71): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>cButton.cpp(71): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>cButton.cpp(71): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>cButton.cpp(71): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>cButton.cpp(71): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>cButton.cpp(71): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>cButton.cpp(76): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>cButton.cpp(76): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>cButton.cpp(76): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>cButton.cpp(76): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>cButton.cpp(76): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>cButton.cpp(76): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>cButton.cpp(80): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>cButton.cpp(80): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>cButton.cpp(80): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>cButton.cpp(80): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>cButton.cpp(80): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>cButton.cpp(80): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+         cGame.cpp
+     1>c:\users\백노연\desktop\black\정리2\no\[api]2011년 겨울방학 팀 프로젝트[limit]\cGdiGraphics.h(187): error C2664: 'TextOutW' : 매개 변수 4을(를) 'char *'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+                 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+     1>c:\users\백노연\desktop\black\정리2\no\[api]2011년 겨울방학 팀 프로젝트[limit]\cGdiGraphics.h(222): error C2664: 'strcpy' : 매개 변수 1을(를) 'WCHAR [32]'에서 'char *'(으)로 변환할 수 없습니다.
+                 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+     1>c:\users\백노연\desktop\black\정리2\no\[api]2011년 겨울방학 팀 프로젝트[limit]\cGdiImage.h(52): error C2664: 'LoadImageW' : 매개 변수 2을(를) 'const char *'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+                 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+     1>c:\users\백노연\desktop\black\정리2\no\[api]2011년 겨울방학 팀 프로젝트[limit]\fmodSound.h(5): fatal error C1083: 포함 파일을 열 수 없습니다. 'fmod.hpp': No such file or directory
+         cInfantry.cpp
+     1>c:\users\백노연\desktop\black\정리2\no\[api]2011년 겨울방학 팀 프로젝트[limit]\fmodSound.h(5): fatal error C1083: 포함 파일을 열 수 없습니다. 'fmod.hpp': No such file or directory
+         cLevelMenu.cpp
+     1>c:\users\백노연\desktop\black\정리2\no\[api]2011년 겨울방학 팀 프로젝트[limit]\cGdiGraphics.h(187): error C2664: 'TextOutW' : 매개 변수 4을(를) 'char *'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+                 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+     1>c:\users\백노연\desktop\black\정리2\no\[api]2011년 겨울방학 팀 프로젝트[limit]\cGdiGraphics.h(222): error C2664: 'strcpy' : 매개 변수 1을(를) 'WCHAR [32]'에서 'char *'(으)로 변환할 수 없습니다.
+                 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+     1>c:\users\백노연\desktop\black\정리2\no\[api]2011년 겨울방학 팀 프로젝트[limit]\cGdiImage.h(52): error C2664: 'LoadImageW' : 매개 변수 2을(를) 'const char *'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+                 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+     1>c:\users\백노연\desktop\black\정리2\no\[api]2011년 겨울방학 팀 프로젝트[limit]\fmodSound.h(5): fatal error C1083: 포함 파일을 열 수 없습니다. 'fmod.hpp': No such file or directory
+         cLimitMenu.cpp
+     1>c:\users\백노연\desktop\black\정리2\no\[api]2011년 겨울방학 팀 프로젝트[limit]\cGdiGraphics.h(187): error C2664: 'TextOutW' : 매개 변수 4을(를) 'char *'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+                 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+     1>c:\users\백노연\desktop\black\정리2\no\[api]2011년 겨울방학 팀 프로젝트[limit]\cGdiGraphics.h(222): error C2664: 'strcpy' : 매개 변수 1을(를) 'WCHAR [32]'에서 'char *'(으)로 변환할 수 없습니다.
+                 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+     1>c:\users\백노연\desktop\black\정리2\no\[api]2011년 겨울방학 팀 프로젝트[limit]\cGdiImage.h(52): error C2664: 'LoadImageW' : 매개 변수 2을(를) 'const char *'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+                 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+     1>c:\users\백노연\desktop\black\정리2\no\[api]2011년 겨울방학 팀 프로젝트[limit]\fmodSound.h(5): fatal error C1083: 포함 파일을 열 수 없습니다. 'fmod.hpp': No such file or directory
+         cLogo.cpp
+     1>c:\users\백노연\desktop\black\정리2\no\[api]2011년 겨울방학 팀 프로젝트[limit]\cGdiGraphics.h(187): error C2664: 'TextOutW' : 매개 변수 4을(를) 'char *'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+                 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+     1>c:\users\백노연\desktop\black\정리2\no\[api]2011년 겨울방학 팀 프로젝트[limit]\cGdiGraphics.h(222): error C2664: 'strcpy' : 매개 변수 1을(를) 'WCHAR [32]'에서 'char *'(으)로 변환할 수 없습니다.
+                 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+     1>c:\users\백노연\desktop\black\정리2\no\[api]2011년 겨울방학 팀 프로젝트[limit]\cGdiImage.h(52): error C2664: 'LoadImageW' : 매개 변수 2을(를) 'const char *'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+                 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+     1>c:\users\백노연\desktop\black\정리2\no\[api]2011년 겨울방학 팀 프로젝트[limit]\fmodSound.h(5): fatal error C1083: 포함 파일을 열 수 없습니다. 'fmod.hpp': No such file or directory
+         cMenu.cpp
+     1>c:\users\백노연\desktop\black\정리2\no\[api]2011년 겨울방학 팀 프로젝트[limit]\cGdiGraphics.h(187): error C2664: 'TextOutW' : 매개 변수 4을(를) 'char *'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+                 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+     1>c:\users\백노연\desktop\black\정리2\no\[api]2011년 겨울방학 팀 프로젝트[limit]\cGdiGraphics.h(222): error C2664: 'strcpy' : 매개 변수 1을(를) 'WCHAR [32]'에서 'char *'(으)로 변환할 수 없습니다.
+                 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+     1>c:\users\백노연\desktop\black\정리2\no\[api]2011년 겨울방학 팀 프로젝트[limit]\cGdiImage.h(52): error C2664: 'LoadImageW' : 매개 변수 2을(를) 'const char *'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+                 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+     1>c:\users\백노연\desktop\black\정리2\no\[api]2011년 겨울방학 팀 프로젝트[limit]\fmodSound.h(5): fatal error C1083: 포함 파일을 열 수 없습니다. 'fmod.hpp': No such file or directory
+         cPriest.cpp
+     1>c:\users\백노연\desktop\black\정리2\no\[api]2011년 겨울방학 팀 프로젝트[limit]\fmodSound.h(5): fatal error C1083: 포함 파일을 열 수 없습니다. 'fmod.hpp': No such file or directory
+         cSpearman.cpp
+     1>c:\users\백노연\desktop\black\정리2\no\[api]2011년 겨울방학 팀 프로젝트[limit]\fmodSound.h(5): fatal error C1083: 포함 파일을 열 수 없습니다. 'fmod.hpp': No such file or directory
+         cSpell.cpp
+     1>c:\users\백노연\desktop\black\정리2\no\[api]2011년 겨울방학 팀 프로젝트[limit]\fmodSound.h(5): fatal error C1083: 포함 파일을 열 수 없습니다. 'fmod.hpp': No such file or directory
+         cStageMenu.cpp
+     1>c:\users\백노연\desktop\black\정리2\no\[api]2011년 겨울방학 팀 프로젝트[limit]\cGdiGraphics.h(187): error C2664: 'TextOutW' : 매개 변수 4을(를) 'char *'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+                 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+     1>c:\users\백노연\desktop\black\정리2\no\[api]2011년 겨울방학 팀 프로젝트[limit]\cGdiGraphics.h(222): error C2664: 'strcpy' : 매개 변수 1을(를) 'WCHAR [32]'에서 'char *'(으)로 변환할 수 없습니다.
+                 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+     1>c:\users\백노연\desktop\black\정리2\no\[api]2011년 겨울방학 팀 프로젝트[limit]\cGdiImage.h(52): error C2664: 'LoadImageW' : 매개 변수 2을(를) 'const char *'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+                 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+     1>c:\users\백노연\desktop\black\정리2\no\[api]2011년 겨울방학 팀 프로젝트[limit]\fmodSound.h(5): fatal error C1083: 포함 파일을 열 수 없습니다. 'fmod.hpp': No such file or directory
+         cStateManager.cpp
+     1>c:\users\백노연\desktop\black\정리2\no\[api]2011년 겨울방학 팀 프로젝트[limit]\cGdiGraphics.h(187): error C2664: 'TextOutW' : 매개 변수 4을(를) 'char *'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+                 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+     1>c:\users\백노연\desktop\black\정리2\no\[api]2011년 겨울방학 팀 프로젝트[limit]\cGdiGraphics.h(222): error C2664: 'strcpy' : 매개 변수 1을(를) 'WCHAR [32]'에서 'char *'(으)로 변환할 수 없습니다.
+                 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+     1>c:\users\백노연\desktop\black\정리2\no\[api]2011년 겨울방학 팀 프로젝트[limit]\cGdiImage.h(52): error C2664: 'LoadImageW' : 매개 변수 2을(를) 'const char *'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+                 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+     1>c:\users\백노연\desktop\black\정리2\no\[api]2011년 겨울방학 팀 프로젝트[limit]\fmodSound.h(5): fatal error C1083: 포함 파일을 열 수 없습니다. 'fmod.hpp': No such file or directory
+         cUnit.cpp
+     1>c:\users\백노연\desktop\black\정리2\no\[api]2011년 겨울방학 팀 프로젝트[limit]\fmodSound.h(5): fatal error C1083: 포함 파일을 열 수 없습니다. 'fmod.hpp': No such file or directory
+         main.cpp
+     1>c:\users\백노연\desktop\black\정리2\no\[api]2011년 겨울방학 팀 프로젝트[limit]\cGdiGraphics.h(187): error C2664: 'TextOutW' : 매개 변수 4을(를) 'char *'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+                 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+     1>c:\users\백노연\desktop\black\정리2\no\[api]2011년 겨울방학 팀 프로젝트[limit]\cGdiGraphics.h(222): error C2664: 'strcpy' : 매개 변수 1을(를) 'WCHAR [32]'에서 'char *'(으)로 변환할 수 없습니다.
+                 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+     1>c:\users\백노연\desktop\black\정리2\no\[api]2011년 겨울방학 팀 프로젝트[limit]\cGdiImage.h(52): error C2664: 'LoadImageW' : 매개 변수 2을(를) 'const char *'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+                 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+     1>c:\users\백노연\desktop\black\정리2\no\[api]2011년 겨울방학 팀 프로젝트[limit]\fmodSound.h(5): fatal error C1083: 포함 파일을 열 수 없습니다. 'fmod.hpp': No such file or directory
+         sceneManager.cpp
+     1>c:\users\백노연\desktop\black\정리2\no\[api]2011년 겨울방학 팀 프로젝트[limit]\cGdiGraphics.h(187): error C2664: 'TextOutW' : 매개 변수 4을(를) 'char *'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+                 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+     1>c:\users\백노연\desktop\black\정리2\no\[api]2011년 겨울방학 팀 프로젝트[limit]\cGdiGraphics.h(222): error C2664: 'strcpy' : 매개 변수 1을(를) 'WCHAR [32]'에서 'char *'(으)로 변환할 수 없습니다.
+                 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+     1>c:\users\백노연\desktop\black\정리2\no\[api]2011년 겨울방학 팀 프로젝트[limit]\cGdiImage.h(52): error C2664: 'LoadImageW' : 매개 변수 2을(를) 'const char *'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+                 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+     1>c:\users\백노연\desktop\black\정리2\no\[api]2011년 겨울방학 팀 프로젝트[limit]\fmodSound.h(5): fatal error C1083: 포함 파일을 열 수 없습니다. 'fmod.hpp': No such file or directory
+     1>"C:\Users\백노연\Desktop\Black\정리2\No\[API]2011년 겨울방학 팀 프로젝트[Limit]\[API]2011년 겨울방학 팀 프로젝트[Limit].vcxproj" 프로젝트를 빌드했습니다(build 대상). - 실패
+
+빌드하지 못했습니다.
+
+경과 시간: 00:00:11.65
