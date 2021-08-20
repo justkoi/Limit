@@ -20,7 +20,7 @@
 
 ### 핵심 코드 설명
 
-#### 소스코드 경로 : ..\게임파일(C++,WindowsAPI)\\[API]2011년 겨울방학 팀 프로젝트[Limit]\
+#### 소스코드 경로 : https://github.com/justkoi/Limit/tree/main/%EA%B2%8C%EC%9E%84%ED%8C%8C%EC%9D%BC(C%2B%2B%2CWindowsAPI)/%5BAPI%5D2011%EB%85%84%20%EA%B2%A8%EC%9A%B8%EB%B0%A9%ED%95%99%20%ED%8C%80%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%5BLimit%5D
 
 cLogo.cpp - 게임 타이틀 씬
 
