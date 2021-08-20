@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BeakNohYeon\Documents\GitHub\CrossPuzzleGit\Limit\게임파일(C++,WindowsAPI)\[API]2011년 겨울방학 팀 프로젝트[Limit]\</FILEPATH>
+      <FILENAME>cGdiImage.h</FILENAME>
+      <LINE>24</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>'cGdiImage::m_memDC' 변수가 초기화되지 않았습니다. 항상 멤버 변수를 초기화하세요(type.6).</DESCRIPTION>
+    <FUNCTION>cGdiImage::{ctor}</FUNCTION>
+    <DECORATED>??0cGdiImage@@QAE@XZ</DECORATED>
+    <FUNCLINE>24</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>cGdiImage::m_memDC</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BeakNohYeon\Documents\GitHub\CrossPuzzleGit\Limit\게임파일(C++,WindowsAPI)\[API]2011년 겨울방학 팀 프로젝트[Limit]\</FILEPATH>
+      <FILENAME>cGdiImage.h</FILENAME>
+      <LINE>24</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>'cGdiImage::m_Height' 변수가 초기화되지 않았습니다. 항상 멤버 변수를 초기화하세요(type.6).</DESCRIPTION>
+    <FUNCTION>cGdiImage::{ctor}</FUNCTION>
+    <DECORATED>??0cGdiImage@@QAE@XZ</DECORATED>
+    <FUNCLINE>24</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>cGdiImage::m_Height</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BeakNohYeon\Documents\GitHub\CrossPuzzleGit\Limit\게임파일(C++,WindowsAPI)\[API]2011년 겨울방학 팀 프로젝트[Limit]\</FILEPATH>
+      <FILENAME>cGdiImage.h</FILENAME>
+      <LINE>24</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>'cGdiImage::m_Width' 변수가 초기화되지 않았습니다. 항상 멤버 변수를 초기화하세요(type.6).</DESCRIPTION>
+    <FUNCTION>cGdiImage::{ctor}</FUNCTION>
+    <DECORATED>??0cGdiImage@@QAE@XZ</DECORATED>
+    <FUNCLINE>24</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>cGdiImage::m_Width</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BeakNohYeon\Documents\GitHub\CrossPuzzleGit\Limit\게임파일(C++,WindowsAPI)\[API]2011년 겨울방학 팀 프로젝트[Limit]\</FILEPATH>
+      <FILENAME>cButton.h</FILENAME>
+      <LINE>24</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>'cButton::Visible' 변수가 초기화되지 않았습니다. 항상 멤버 변수를 초기화하세요(type.6).</DESCRIPTION>
+    <FUNCTION>cButton::{ctor}</FUNCTION>
+    <DECORATED>??0cButton@@QAE@MMMM@Z</DECORATED>
+    <FUNCLINE>24</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>cButton::Visible</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BeakNohYeon\Documents\GitHub\CrossPuzzleGit\Limit\게임파일(C++,WindowsAPI)\[API]2011년 겨울방학 팀 프로젝트[Limit]\</FILEPATH>
+      <FILENAME>cButton.h</FILENAME>
+      <LINE>24</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>'cButton::Alpha' 변수가 초기화되지 않았습니다. 항상 멤버 변수를 초기화하세요(type.6).</DESCRIPTION>
+    <FUNCTION>cButton::{ctor}</FUNCTION>
+    <DECORATED>??0cButton@@QAE@MMMM@Z</DECORATED>
+    <FUNCLINE>24</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>cButton::Alpha</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

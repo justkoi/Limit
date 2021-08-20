@@ -3,8 +3,29 @@
 C:\Users\BeakNohYeon\Documents\GitHub\CrossPuzzleGit\Limit\게임파일(C++,WindowsAPI)\[API]2011년 겨울방학 팀 프로젝트[Limit]\fmodSound.h(5,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'fmod.hpp': No such file or directory
   cCavalry.cpp
 C:\Users\BeakNohYeon\Documents\GitHub\CrossPuzzleGit\Limit\게임파일(C++,WindowsAPI)\[API]2011년 겨울방학 팀 프로젝트[Limit]\fmodSound.h(5,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'fmod.hpp': No such file or directory
-  cGame.cpp
+  cButton.cpp
 C:\Users\BeakNohYeon\Documents\GitHub\CrossPuzzleGit\Limit\게임파일(C++,WindowsAPI)\[API]2011년 겨울방학 팀 프로젝트[Limit]\fmodSound.h(5,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'fmod.hpp': No such file or directory
+C:\Users\BeakNohYeon\Documents\GitHub\CrossPuzzleGit\Limit\게임파일(C++,WindowsAPI)\[API]2011년 겨울방학 팀 프로젝트[Limit]\cGdiGraphics.h(222,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 'strcpy' 선언을 참조하십시오.
+C:\Users\BeakNohYeon\Documents\GitHub\CrossPuzzleGit\Limit\게임파일(C++,WindowsAPI)\[API]2011년 겨울방학 팀 프로젝트[Limit]\cButton.cpp(71,48): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\BeakNohYeon\Documents\GitHub\CrossPuzzleGit\Limit\게임파일(C++,WindowsAPI)\[API]2011년 겨울방학 팀 프로젝트[Limit]\cButton.cpp(71,42): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\BeakNohYeon\Documents\GitHub\CrossPuzzleGit\Limit\게임파일(C++,WindowsAPI)\[API]2011년 겨울방학 팀 프로젝트[Limit]\cButton.cpp(71,35): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\BeakNohYeon\Documents\GitHub\CrossPuzzleGit\Limit\게임파일(C++,WindowsAPI)\[API]2011년 겨울방학 팀 프로젝트[Limit]\cButton.cpp(71,29): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\BeakNohYeon\Documents\GitHub\CrossPuzzleGit\Limit\게임파일(C++,WindowsAPI)\[API]2011년 겨울방학 팀 프로젝트[Limit]\cButton.cpp(71,22): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\BeakNohYeon\Documents\GitHub\CrossPuzzleGit\Limit\게임파일(C++,WindowsAPI)\[API]2011년 겨울방학 팀 프로젝트[Limit]\cButton.cpp(71,18): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\BeakNohYeon\Documents\GitHub\CrossPuzzleGit\Limit\게임파일(C++,WindowsAPI)\[API]2011년 겨울방학 팀 프로젝트[Limit]\cButton.cpp(76,44): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\BeakNohYeon\Documents\GitHub\CrossPuzzleGit\Limit\게임파일(C++,WindowsAPI)\[API]2011년 겨울방학 팀 프로젝트[Limit]\cButton.cpp(76,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\BeakNohYeon\Documents\GitHub\CrossPuzzleGit\Limit\게임파일(C++,WindowsAPI)\[API]2011년 겨울방학 팀 프로젝트[Limit]\cButton.cpp(76,31): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\BeakNohYeon\Documents\GitHub\CrossPuzzleGit\Limit\게임파일(C++,WindowsAPI)\[API]2011년 겨울방학 팀 프로젝트[Limit]\cButton.cpp(76,25): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\BeakNohYeon\Documents\GitHub\CrossPuzzleGit\Limit\게임파일(C++,WindowsAPI)\[API]2011년 겨울방학 팀 프로젝트[Limit]\cButton.cpp(76,19): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\BeakNohYeon\Documents\GitHub\CrossPuzzleGit\Limit\게임파일(C++,WindowsAPI)\[API]2011년 겨울방학 팀 프로젝트[Limit]\cButton.cpp(76,17): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\BeakNohYeon\Documents\GitHub\CrossPuzzleGit\Limit\게임파일(C++,WindowsAPI)\[API]2011년 겨울방학 팀 프로젝트[Limit]\cButton.cpp(80,44): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\BeakNohYeon\Documents\GitHub\CrossPuzzleGit\Limit\게임파일(C++,WindowsAPI)\[API]2011년 겨울방학 팀 프로젝트[Limit]\cButton.cpp(80,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\BeakNohYeon\Documents\GitHub\CrossPuzzleGit\Limit\게임파일(C++,WindowsAPI)\[API]2011년 겨울방학 팀 프로젝트[Limit]\cButton.cpp(80,31): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\BeakNohYeon\Documents\GitHub\CrossPuzzleGit\Limit\게임파일(C++,WindowsAPI)\[API]2011년 겨울방학 팀 프로젝트[Limit]\cButton.cpp(80,25): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\BeakNohYeon\Documents\GitHub\CrossPuzzleGit\Limit\게임파일(C++,WindowsAPI)\[API]2011년 겨울방학 팀 프로젝트[Limit]\cButton.cpp(80,19): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  cGame.cpp
+C:\Users\BeakNohYeon\Documents\GitHub\CrossPuzzleGit\Limit\게임파일(C++,WindowsAPI)\[API]2011년 겨울방학 팀 프로젝트[Limit]\cButton.cpp(80,17): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
 C:\Users\BeakNohYeon\Documents\GitHub\CrossPuzzleGit\Limit\게임파일(C++,WindowsAPI)\[API]2011년 겨울방학 팀 프로젝트[Limit]\cGdiGraphics.h(222,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
 C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 'strcpy' 선언을 참조하십시오.
   cInfantry.cpp
@@ -41,13 +62,16 @@ C:\Users\BeakNohYeon\Documents\GitHub\CrossPuzzleGit\Limit\게임파일(C++,Wind
 C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 'strcpy' 선언을 참조하십시오.
   cUnit.cpp
 C:\Users\BeakNohYeon\Documents\GitHub\CrossPuzzleGit\Limit\게임파일(C++,WindowsAPI)\[API]2011년 겨울방학 팀 프로젝트[Limit]\fmodSound.h(5,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'fmod.hpp': No such file or directory
+  frame.cpp
   main.cpp
 C:\Users\BeakNohYeon\Documents\GitHub\CrossPuzzleGit\Limit\게임파일(C++,WindowsAPI)\[API]2011년 겨울방학 팀 프로젝트[Limit]\fmodSound.h(5,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'fmod.hpp': No such file or directory
 C:\Users\BeakNohYeon\Documents\GitHub\CrossPuzzleGit\Limit\게임파일(C++,WindowsAPI)\[API]2011년 겨울방학 팀 프로젝트[Limit]\cGdiGraphics.h(222,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
 C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 'strcpy' 선언을 참조하십시오.
+  scene.cpp
   sceneManager.cpp
 C:\Users\BeakNohYeon\Documents\GitHub\CrossPuzzleGit\Limit\게임파일(C++,WindowsAPI)\[API]2011년 겨울방학 팀 프로젝트[Limit]\fmodSound.h(5,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'fmod.hpp': No such file or directory
 C:\Users\BeakNohYeon\Documents\GitHub\CrossPuzzleGit\Limit\게임파일(C++,WindowsAPI)\[API]2011년 겨울방학 팀 프로젝트[Limit]\cGdiGraphics.h(222,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
 C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 'strcpy' 선언을 참조하십시오.
+  컴파일하고 있습니다...
   코드를 생성하고 있습니다...
 C:\Users\BeakNohYeon\Documents\GitHub\CrossPuzzleGit\Limit\게임파일(C++,WindowsAPI)\[API]2011년 겨울방학 팀 프로젝트[Limit]\fmodSound.h(5,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'fmod.hpp': No such file or directory
