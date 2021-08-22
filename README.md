@@ -12,7 +12,7 @@
 
 핵심 기술 / 알고리즘 : 게임 속 유닛의 구현. 아군 및 적군 유닛의 자동전투 시뮬레이션. 전투 이동을 위해 유닛을 겹치지 않으면서 유닛이 다음 위치를 찾아갈 수 있도록 하는 알고리즘 구현. 원거리 투사체 공격 및 아군 힐링 알고리즘 구현.
 
-게임 소개 : Github홈페이지-Limit 게임소개.docx 파일을 참고해주세요.
+게임 소개 : https://github.com/justkoi/Limit/blob/main/Limit%EA%B2%8C%EC%9E%84%EC%86%8C%EA%B0%9C.docx 해당 파일을 참고해주세요.
 
 플레이 영상 : https://youtu.be/8KpYQOkhGWc
 
@@ -20,7 +20,7 @@
 
 ### 핵심 코드 설명
 
-#### 소스코드 경로 : ..\게임파일(C++,WindowsAPI)\\[API]2011년 겨울방학 팀 프로젝트[Limit]\
+#### 소스코드 경로 : [https://github.com/justkoi/Limit/tree/main/%EA%B2%8C%EC%9E%84%ED%8C%8C%EC%9D%BC(C%2B%2B%2CWindowsAPI)/%5BAPI%5D2011%EB%85%84%20%EA%B2%A8%EC%9A%B8%EB%B0%A9%ED%95%99%20%ED%8C%80%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%5BLimit%5D](https://github.com/justkoi/Limit/tree/main/게임파일(C%2B%2B%2CWindowsAPI)/[API]2011년 겨울방학 팀 프로젝트[Limit])
 
 cLogo.cpp - 게임 타이틀 씬
 
